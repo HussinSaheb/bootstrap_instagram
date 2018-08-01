@@ -9,7 +9,6 @@ body {
 .phoneImage {
   width: 440px;
   display: inline-block;
-  border: 2px solid black;
   text-align: center;
 }
 
@@ -35,4 +34,16 @@ body {
   margin: auto;
   font-size: 18px;
   font-weight: bold;
+}
+
+.button {
+  background-color: #3897f0;
+  width: 80%;
+  display: inline-block;
+  padding: 8px 0px;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+  font-weight: bold;
+  border-radius: 3px;
 }
