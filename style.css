@@ -4,20 +4,19 @@ body {
 .container {
   width: 800px;
   margin: auto;
-  background-color: lightblue;
 }
 
 .phoneImage {
-  width: 300px;
+  width: 440px;
   display: inline-block;
   text-align: center;
 }
 
 .signUpForm {
-  width: 350px;
-  display: inline-block;
+  /* width: 350px; */
+  /* display: inline-block; */
   text-align: center;
-  float: right;
+  /* float: right; */
 }
 
 .imageHeader img {
