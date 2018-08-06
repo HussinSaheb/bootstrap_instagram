@@ -1,3 +1,7 @@
+This is a revist to the Instragram solution that we were going over,
+in this verison however, we're solving it using bootstrap framework isntead of just doing it manually
+
+
 # CSS Lab
 
 ## Timings
